@@ -10,3 +10,10 @@
 
 #Multiplicacion
 5*15
+
+
+# Division
+20/4
+
+# Raiz cuadrada
+sqrt(144)
